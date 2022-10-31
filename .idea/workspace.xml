@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="75831541-416e-4aad-94d4-ba2a50100fee" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <excluded-from-favorite>
+      <branch-storage>
+        <map>
+          <entry type="REMOTE">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$/.." source="origin/master" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </excluded-from-favorite>
+    <favorite-branches>
+      <branch-storage>
+        <map>
+          <entry type="LOCAL">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$/.." source="yilmaz" />
+              </list>
+            </value>
+          </entry>
+          <entry type="REMOTE">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$/.." source="origin/main" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </favorite-branches>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/.." value="yilmaz1" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2FqMb7L0gZUsqfAq7Yy7d1TdSpx" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
+  </component>
+  <component name="RunManager">
+    <configuration name="TestRunner" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="publish-ui-tests-main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.circleboom.runner.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.circleboom.runner" />
+      <option name="MAIN_CLASS_NAME" value="com.circleboom.runner.TestRunner" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TestRunner" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="75831541-416e-4aad-94d4-ba2a50100fee" name="Default Changelist" comment="" />
+      <created>1665215230066</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1665215230066</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="yeni commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="yeni commit" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="240" y="67" key="#Web_Browsers" timestamp="1665751417415">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="240" y="67" key="#Web_Browsers/0.0.1280.800@0.0.1280.800" timestamp="1665751417415" />
+    <state x="339" y="192" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1666644573326">
+      <screen x="0" y="23" width="1280" height="719" />
+    </state>
+    <state x="339" y="192" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1280.719@0.23.1280.719" timestamp="1666644573326" />
+    <state x="473" y="297" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1665215445378">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="473" y="297" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1280.800@0.0.1280.800" timestamp="1665215445378" />
+    <state x="127" y="23" key="CommitChangelistDialog2" timestamp="1667232912707">
+      <screen x="0" y="23" width="1280" height="719" />
+    </state>
+    <state x="127" y="23" key="CommitChangelistDialog2/0.23.1280.719@0.23.1280.719" timestamp="1667232912707" />
+    <state x="141" y="23" width="997" height="719" key="SettingsEditor" timestamp="1666644937298">
+      <screen x="0" y="23" width="1280" height="719" />
+    </state>
+    <state x="141" y="39" key="SettingsEditor/0.0.1280.800@0.0.1280.800" timestamp="1665752599970" />
+    <state x="141" y="23" width="997" height="719" key="SettingsEditor/0.23.1280.719@0.23.1280.719" timestamp="1666644937298" />
+    <state x="294" y="232" key="com.intellij.ide.util.TipDialog" timestamp="1667231414995">
+      <screen x="0" y="23" width="1280" height="719" />
+    </state>
+    <state x="294" y="233" key="com.intellij.ide.util.TipDialog/0.0.1280.800@0.0.1280.800" timestamp="1666038740524" />
+    <state x="294" y="232" key="com.intellij.ide.util.TipDialog/0.23.1280.719@0.23.1280.719" timestamp="1667231414995" />
+    <state x="386" y="104" key="git4idea.branch.GitSmartOperationDialog" timestamp="1667233155750">
+      <screen x="0" y="23" width="1280" height="719" />
+    </state>
+    <state x="386" y="104" key="git4idea.branch.GitSmartOperationDialog/0.23.1280.719@0.23.1280.719" timestamp="1667233155750" />
+    <state x="305" y="124" width="670" height="676" key="search.everywhere.popup" timestamp="1666638825559">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="305" y="124" width="670" height="676" key="search.everywhere.popup/0.0.1280.800@0.0.1280.800" timestamp="1666638825559" />
+  </component>
+</project>

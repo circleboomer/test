@@ -1,0 +1,13 @@
+-------------------------------------------------------------------------------
+Test set: com.circleboom.runner.TestRunner
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 46.145 s <<< FAILURE! - in com.circleboom.runner.TestRunner
+Create New Post with Free Account.Post my message free account  Time elapsed: 44.863 s  <<< ERROR!
+org.openqa.selenium.TimeoutException: 
+Expected condition failed: waiting for element to be clickable: [[ChromeDriver: chrome on MAC (b7ab7c338d30dfbd03f42796faf246ea)] -> xpath: //a[contains(@class,'sidenav_new_post')]] (tried for 15 second(s) with 500 milliseconds interval)
+Build info: version: '4.1.1', revision: 'e8fcc2cecf'
+System info: host: 'Kaufers-MacBook-Pro.local', ip: 'fe80:0:0:0:48d:8354:e306:b098%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.15.6', java.version: '13.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 106.0.5249.119, chrome: {chromedriverVersion: 106.0.5249.61 (511755355844..., userDataDir: /var/folders/5c/y1zp5cjd5sn...}, goog:chromeOptions: {debuggerAddress: localhost:57835}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: eager, platform: MAC, platformName: MAC, proxy: Proxy(), se:cdp: ws://localhost:57835/devtoo..., se:cdpVersion: 106.0.5249.119, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: b7ab7c338d30dfbd03f42796faf246ea
+
